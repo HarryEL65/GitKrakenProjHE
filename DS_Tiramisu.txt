@@ -1,4 +1,6 @@
 Tiramisu
+Description:
+This will become your new favorit dessert.
 
 Menu Class: Dessert
 
